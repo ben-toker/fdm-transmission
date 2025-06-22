@@ -1,4 +1,4 @@
-# Really bad dial-up
+# Dial-up inspired signal transmission system
 
 Oberlin College CSCI 342 Final Project
 Ezra Crowe, Ethan Meltzer, Ben Toker
